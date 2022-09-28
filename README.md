@@ -76,7 +76,7 @@ If you use this code for your research, please cite our paper.
 @article{xiao2022polarmix,
   title={PolarMix: A General Data Augmentation Technique for LiDAR Point Clouds},
   author={Xiao, Aoran and Huang, Jiaxing and Guan, Dayan and Cui, Kaiwen and Lu, Shijian and Shao, Ling},
-  journal={NeurIPS},
+  journal={arXiv preprint arXiv:2208.00223},
   year={2022}
 }
 ```
