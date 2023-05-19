@@ -7,7 +7,7 @@
 NeurIPS 2022
 
 ## News
-**[2023-03]** PolarMix has been integrated into the [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) codebase.  Check its [new feature](https://mmdetection3d.readthedocs.io/en/latest/notes/changelog.html?highlight=polarmix#new-features)  
+**[2023-03]** PolarMix has been integrated into the [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) codebase.  Check its [new feature](https://mmdetection3d.readthedocs.io/en/latest/notes/changelog.html?highlight=polarmix#new-features).  
 **[2022-09-20]** Code is released.  
 **[2022-09-15]** Our paper is accepted to NeurIPS 2022.
 
